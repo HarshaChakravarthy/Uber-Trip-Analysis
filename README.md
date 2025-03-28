@@ -3,6 +3,9 @@
 **Project Overview**  
 This project focuses on analyzing Uber trip data to uncover key insights into ride trends, customer behavior, payment methods, and revenue generation. Through interactive Power BI visualizations, the analysis explores demand patterns, trip durations, and pricing strategies to support decision-making for ride-sharing services.
 
+![Uber Dashboard](https://github.com/HarshaChakravarthy/Uber-Trip-Analysis-Power-BI/blob/main/Images/Overview%20Analysis%20Dashboard.png)
+
+
 ## Key Objectives:
 - 📊 Identify peak demand hours and top locations.
 - 💵 Analyze trip distances, fare pricing, and revenue trends.
