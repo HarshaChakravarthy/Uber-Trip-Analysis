@@ -14,7 +14,7 @@ This project focuses on analyzing Uber trip data to uncover key insights into ri
 - 👥 Understand customer behavior and payment preferences.
 - ⚙️ Optimize operational strategies with data-driven insights.
 
-## Dataset Information
+## Dataset Information:
 The analysis utilizes two primary datasets:
 
 1. **Uber Trip Details**  
@@ -37,7 +37,7 @@ The analysis utilizes two primary datasets:
 - **Power BI**: For interactive dashboards and data visualization.
 - **Excel**: For data preprocessing and cleaning.
 
-## Key Insights & Visualizations
+## Key Insights & Visualizations:
 
 ### Trip Demand & Time Analysis
 - 🕒 **Peak Hours**: Most bookings occur during evening hours.
@@ -53,7 +53,7 @@ The analysis utilizes two primary datasets:
 
 **Full Dashboard**: https://github.com/HarshaChakravarthy/Uber-Trip-Analysis/tree/main/Power%20BI%20Dashboard
 
-## Business Recommendations
+## Business Recommendations:
 - 🚗 Optimize surge pricing in high-demand areas to boost revenue.
 - 🚶 Increase driver availability during peak hours and in key locations.
 - 💳 Promote digital payments with incentives for a seamless transaction experience.
