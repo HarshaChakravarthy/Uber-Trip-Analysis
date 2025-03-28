@@ -24,7 +24,7 @@ The analysis utilizes two primary datasets:
 2. **Location Table** 
    - Location
    - Location ID
-   - Cit
+   - City
 
 **Data Source**: https://github.com/HarshaChakravarthy/Uber-Trip-Analysis/tree/main/Datasets
 
@@ -53,6 +53,8 @@ The analysis utilizes two primary datasets:
 - 🚶 Increase driver availability during peak hours and in key locations.
 - 💳 Promote digital payments with incentives for a seamless transaction experience.
 - 🛣️ Encourage ride pooling for short-distance trips to improve efficiency.
+
+
 
 
 **Contact**: https://www.linkedin.com/in/harshachakravarthy/
