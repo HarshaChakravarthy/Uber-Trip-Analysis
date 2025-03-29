@@ -51,8 +51,6 @@ The analysis utilizes two primary datasets:
 - 💳 **Payment Methods**: 67% of payments are made via Uber Pay, followed by cash and credit cards.
 - 💸 **UberXL Revenue**: Despite fewer bookings, UberX generates the highest revenue.
 
-**Full Dashboard**: https://github.com/HarshaChakravarthy/Uber-Trip-Analysis/tree/main/Power%20BI%20Dashboard
-
 ## Business Recommendations:
 - 🚗 Optimize surge pricing in high-demand areas to boost revenue.
 - 🚶 Increase driver availability during peak hours and in key locations.
